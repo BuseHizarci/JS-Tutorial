@@ -46,6 +46,7 @@ let newNumber = Number(stringNumber)
 console.log(newNumber)
 
 
+
 let userName ="Buse"
 let isUserName=Boolean(userName)
 console.log(isUserName)
@@ -64,5 +65,6 @@ console.log("number2:" , (number2), "tipi" ,typeof ( number2 ))
 let number3 = "11.1px"
 number3 = parseFloat(number3)
 console.log("number3:" , (number3), "tipi" , typeof ( number3 ))
+
 
 
